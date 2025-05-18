@@ -1,8 +1,7 @@
 # Analysis-of-Image-Classification-using-SVM
 
 Support Vector Machine (SVM) is used to classify Images and we are
-trying to understand SVM and then understand how to draw a
-decision boundary and try to make it optimal and use it for
-classification. Two Datasets “Dogs Vs Cats” and “Color
+trying to understand SVM performs for Large Dataset vs Small Dataset and Binary vs Multi Classification.
+Two Datasets “Dogs Vs Cats”(Large, binary classification) and “Color
 Classification” are used. 
 
