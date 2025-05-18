@@ -5,4 +5,4 @@ trying to understand SVM performs for Large Dataset vs Small Dataset and Binary 
 Two Datasets “Dogs Vs Cats”(Large, binary classification) and “Color
 Classification” (Small, multi classification)  are used. 
 
-This research work is published in IEEE
+This research work is published in IEEE: https://ieeexplore.ieee.org/document/9579803
